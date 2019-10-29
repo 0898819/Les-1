@@ -5,13 +5,30 @@ body{
     background-color: #F6F6F6;
 }
 
+
+h1{
+text-align: center;
+
+}
 h2{
-color:red;
 
 }
 
 .benodigdhedencontent { margin:0 auto; 
     
+    width: 50%;
 
+
+}
+
+.bereidingswijzecontent{
+ 
+width: 50%; 
+
+}
+
+.flexwrapper{
+display: flex;
+flex-direction: row;
 
 }
